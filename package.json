@@ -1,0 +1,28 @@
+{
+  "name": "emapta-test",
+  "version": "1.0.0",
+  "description": "Exam test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nferocious76/EMAPTA-Test.git"
+  },
+  "author": "Neil Francis Ramirez Hipona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nferocious76/EMAPTA-Test/issues"
+  },
+  "homepage": "https://github.com/nferocious76/EMAPTA-Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "mochawesome": "^6.1.1",
+    "supertest": "^4.0.2"
+  }
+}
