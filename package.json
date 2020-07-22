@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/nferocious76/EMAPTA-Test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
   },
   "devDependencies": {
     "chai": "^4.2.0",
