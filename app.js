@@ -46,7 +46,7 @@ function start() {
             results.push(parsed)
         })
         .on('end', () => {
-            res.status(200).send({ data: results });
+            res.status(200).send({ data: results[0] });
         });
     });
 
