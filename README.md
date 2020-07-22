@@ -2,7 +2,7 @@
 Code Exam Test
 
 # RUN
-npm run start
+`npm run start`
 
 # RUN TEST
 `npm run test`
